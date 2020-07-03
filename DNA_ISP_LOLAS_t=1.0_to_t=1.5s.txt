@@ -1,0 +1,27 @@
+Upto 1.0 seconds
+>>> from ispy.biomodels import dna
+========================================
+0:00:00.839 - Start Program
+========================================
+
+ Using ISPLOLAS for expansion.
+ ISP at t = 0.0000 | No. of states:    1 | Approximation: 1.000e+00 | Prob(dropped): 0.000e+00 | Pruning after   9 steps 
+ ISP at t = 0.1000 | No. of states: 9808 | Approximation: 1.000e+00 | Prob(dropped): 1.326e-07 | Pruning after   8 steps 
+ ISP at t = 0.2000 | No. of states: 87393 | Approximation: 1.000e+00 | Prob(dropped): 1.529e-07 | Pruning after   7 steps 
+ ISP at t = 0.3000 | No. of states: 87393 | Approximation: 1.000e+00 | Prob(dropped): 3.028e-07 | Pruning after   6 steps 
+ ISP at t = 0.4000 | No. of states: 87393 | Approximation: 1.000e+00 | Prob(dropped): 8.270e-07 | Pruning after   5 steps 
+ ISP at t = 0.5000 | No. of states: 604977 | Approximation: 1.000e+00 | Prob(dropped): 8.432e-07 | Pruning after   4 steps 
+ ISP at t = 0.6000 | No. of states: 604977 | Approximation: 1.000e+00 | Prob(dropped): 9.135e-07 | Pruning after   3 steps 
+ ISP at t = 0.7000 | No. of states: 604977 | Approximation: 1.000e+00 | Prob(dropped): 1.084e-06 | Pruning after   2 steps 
+ ISP at t = 0.8000 | No. of states: 604977 | Approximation: 1.000e+00 | Prob(dropped): 1.422e-06 | Pruning after   1 steps 
+ ISP at t = 0.9000 | No. of states: 604977 | Approximation: 1.000e+00 | Prob(dropped): 2.019e-06 | Pruning after  10 steps 
+ ISP at t = 1.0000 | No. of states: 604977 | Approximation: 1.000e+00 | Prob(dropped): 2.99e-06 | Pruning after  9 steps 
+ ISP at t = 1.1000 | No. of states: 3409899 | Approximation: 1.000e+00 | Prob(dropped): 3.01e-06 | Pruning after  8 steps
+ ISP at t = 1.2000 | No. of states: 3409899 | Approximation: 1.000e+00 | Prob(dropped): 3.08e-06 | Pruning after  7 steps
+ ISP at t = 1.3000 | No. of states: 3409899 | Approximation: 1.000e+00 | Prob(dropped): 3.20e-06 | Pruning after  6 steps
+ ISP at t = 1.4000 | No. of states: 3409899 | Approximation: 1.000e+00 | Prob(dropped): 3.42e-06 | Pruning after  5 steps
+ ISP at t = 1.5000 | No. of states: 3409899 | Approximation: 1.000e+00 | Prob(dropped): 3.52e-06 | Pruning after  4 steps
+
+Time elapsed: 1372.94033599 seconds
+
+AWS Time elapsed: 591.510112047 seconds

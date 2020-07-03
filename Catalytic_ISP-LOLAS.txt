@@ -1,0 +1,118 @@
+>>> from ispy.biomodels import catalytic_sys
+========================================
+0:00:00.167 - Start Program
+========================================
+
+[(-1, 1, 0, 0, 0), (0, -1, 1, 0, 0), (0, -1, 0, -1, 1)]
+(50, 0, 0, 80, 0)
+('S', 'E', 'C', 'P', 'E')
+50.0
+/usr/local/lib/python2.7/site-packages/matplotlib/__init__.py:908: UserWarning:  This call to matplotlib.use() has no effect
+because the the backend has already been chosen;
+matplotlib.use() must be called *before* pylab, matplotlib.pyplot,
+or matplotlib.backends is imported for the first time.
+
+  if warn: warnings.warn(_use_error_msg)
+ Using ISPLOLAS for expansion.
+ ISP at t = 0.0000 | No. of states:    1 | Approximation: 1.000e+00 | Prob(dropped): 0.000e+00 | Pruning after   9 steps 
+ ISP at t = 0.0000 | No. of states:    1 | Approximation: 1.000e+00 | Prob(dropped): 0.000e+00 | Pruning after   9 steps 
+ ISP at t = 0.0100 | No. of states:  139 | Approximation: 1.000e+00 | Prob(dropped): 6.132e-07 | Pruning after   8 steps 
+ ISP at t = 0.0100 | No. of states:  139 | Approximation: 1.000e+00 | Prob(dropped): 6.132e-07 | Pruning after   8 steps 
+ ISP at t = 0.0200 | No. of states:  333 | Approximation: 1.000e+00 | Prob(dropped): 7.959e-07 | Pruning after   7 steps 
+ ISP at t = 0.0200 | No. of states:  333 | Approximation: 1.000e+00 | Prob(dropped): 7.959e-07 | Pruning after   7 steps 
+ ISP at t = 0.0300 | No. of states:  479 | Approximation: 1.000e+00 | Prob(dropped): 9.319e-07 | Pruning after   6 steps 
+ ISP at t = 0.0300 | No. of states:  479 | Approximation: 1.000e+00 | Prob(dropped): 9.319e-07 | Pruning after   6 steps 
+ ISP at t = 0.0400 | No. of states:  656 | Approximation: 1.000e+00 | Prob(dropped): 1.120e-06 | Pruning after   5 steps 
+ ISP at t = 0.0400 | No. of states:  656 | Approximation: 1.000e+00 | Prob(dropped): 1.120e-06 | Pruning after   5 steps 
+ ISP at t = 0.0500 | No. of states:  877 | Approximation: 1.000e+00 | Prob(dropped): 1.228e-06 | Pruning after   4 steps 
+ ISP at t = 0.0500 | No. of states:  877 | Approximation: 1.000e+00 | Prob(dropped): 1.228e-06 | Pruning after   4 steps 
+ ISP at t = 0.0600 | No. of states: 1141 | Approximation: 1.000e+00 | Prob(dropped): 1.268e-06 | Pruning after   3 steps 
+ ISP at t = 0.0600 | No. of states: 1141 | Approximation: 1.000e+00 | Prob(dropped): 1.268e-06 | Pruning after   3 steps 
+ ISP at t = 0.0700 | No. of states: 1141 | Approximation: 1.000e+00 | Prob(dropped): 1.653e-06 | Pruning after   2 steps 
+ ISP at t = 0.0700 | No. of states: 1141 | Approximation: 1.000e+00 | Prob(dropped): 1.653e-06 | Pruning after   2 steps 
+ ISP at t = 0.0800 | No. of states: 1452 | Approximation: 1.000e+00 | Prob(dropped): 1.796e-06 | Pruning after   1 steps 
+ ISP at t = 0.0800 | No. of states: 1452 | Approximation: 1.000e+00 | Prob(dropped): 1.796e-06 | Pruning after   1 steps 
+ ISP at t = 0.0900 | No. of states: 1452 | Approximation: 1.000e+00 | Prob(dropped): 2.712e-06 | Pruning after  10 steps 
+ ISP at t = 0.0900 | No. of states: 1452 | Approximation: 1.000e+00 | Prob(dropped): 2.712e-06 | Pruning after  10 steps 
+ ISP at t = 0.1000 | No. of states: 1815 | Approximation: 1.000e+00 | Prob(dropped): 2.895e-06 | Pruning after   9 steps 
+ ISP at t = 0.1000 | No. of states: 1815 | Approximation: 1.000e+00 | Prob(dropped): 2.895e-06 | Pruning after   9 steps 
+ ISP at t = 0.1100 | No. of states: 2237 | Approximation: 1.000e+00 | Prob(dropped): 2.945e-06 | Pruning after   8 steps 
+ ISP at t = 0.1100 | No. of states: 2237 | Approximation: 1.000e+00 | Prob(dropped): 2.945e-06 | Pruning after   8 steps 
+ ISP at t = 0.1200 | No. of states: 2237 | Approximation: 1.000e+00 | Prob(dropped): 3.277e-06 | Pruning after   7 steps 
+ ISP at t = 0.1200 | No. of states: 2237 | Approximation: 1.000e+00 | Prob(dropped): 3.277e-06 | Pruning after   7 steps 
+ ISP at t = 0.1300 | No. of states: 2714 | Approximation: 1.000e+00 | Prob(dropped): 3.349e-06 | Pruning after   6 steps 
+ ISP at t = 0.1300 | No. of states: 2714 | Approximation: 1.000e+00 | Prob(dropped): 3.349e-06 | Pruning after   6 steps 
+ ISP at t = 0.1400 | No. of states: 2714 | Approximation: 1.000e+00 | Prob(dropped): 3.743e-06 | Pruning after   5 steps 
+ ISP at t = 0.1400 | No. of states: 2714 | Approximation: 1.000e+00 | Prob(dropped): 3.743e-06 | Pruning after   5 steps 
+ ISP at t = 0.1500 | No. of states: 3259 | Approximation: 1.000e+00 | Prob(dropped): 3.802e-06 | Pruning after   4 steps 
+ ISP at t = 0.1500 | No. of states: 3259 | Approximation: 1.000e+00 | Prob(dropped): 3.802e-06 | Pruning after   4 steps 
+ ISP at t = 0.1600 | No. of states: 3259 | Approximation: 1.000e+00 | Prob(dropped): 4.114e-06 | Pruning after   3 steps 
+ ISP at t = 0.1600 | No. of states: 3259 | Approximation: 1.000e+00 | Prob(dropped): 4.114e-06 | Pruning after   3 steps 
+ ISP at t = 0.1700 | No. of states: 3259 | Approximation: 1.000e+00 | Prob(dropped): 5.043e-06 | Pruning after   2 steps 
+ ISP at t = 0.1700 | No. of states: 3259 | Approximation: 1.000e+00 | Prob(dropped): 5.043e-06 | Pruning after   2 steps 
+ ISP at t = 0.1800 | No. of states: 3871 | Approximation: 1.000e+00 | Prob(dropped): 5.166e-06 | Pruning after   1 steps 
+ ISP at t = 0.1800 | No. of states: 3871 | Approximation: 1.000e+00 | Prob(dropped): 5.166e-06 | Pruning after   1 steps 
+ ISP at t = 0.1900 | No. of states: 3871 | Approximation: 1.000e+00 | Prob(dropped): 5.737e-06 | Pruning after  10 steps 
+ ISP at t = 0.1900 | No. of states: 3871 | Approximation: 1.000e+00 | Prob(dropped): 5.737e-06 | Pruning after  10 steps 
+ ISP at t = 0.2000 | No. of states: 4554 | Approximation: 1.000e+00 | Prob(dropped): 5.816e-06 | Pruning after   9 steps 
+ ISP at t = 0.2000 | No. of states: 4554 | Approximation: 1.000e+00 | Prob(dropped): 5.816e-06 | Pruning after   9 steps 
+ ISP at t = 0.2100 | No. of states: 4554 | Approximation: 1.000e+00 | Prob(dropped): 6.185e-06 | Pruning after   8 steps 
+ ISP at t = 0.2100 | No. of states: 4554 | Approximation: 1.000e+00 | Prob(dropped): 6.185e-06 | Pruning after   8 steps 
+ ISP at t = 0.2200 | No. of states: 4554 | Approximation: 1.000e+00 | Prob(dropped): 7.166e-06 | Pruning after   7 steps 
+ ISP at t = 0.2200 | No. of states: 4554 | Approximation: 1.000e+00 | Prob(dropped): 7.166e-06 | Pruning after   7 steps 
+ ISP at t = 0.2300 | No. of states: 5313 | Approximation: 1.000e+00 | Prob(dropped): 7.266e-06 | Pruning after   6 steps 
+ ISP at t = 0.2300 | No. of states: 5313 | Approximation: 1.000e+00 | Prob(dropped): 7.266e-06 | Pruning after   6 steps 
+ ISP at t = 0.2400 | No. of states: 5313 | Approximation: 1.000e+00 | Prob(dropped): 7.710e-06 | Pruning after   5 steps 
+ ISP at t = 0.2400 | No. of states: 5313 | Approximation: 1.000e+00 | Prob(dropped): 7.710e-06 | Pruning after   5 steps 
+ ISP at t = 0.2500 | No. of states: 6155 | Approximation: 1.000e+00 | Prob(dropped): 7.760e-06 | Pruning after   4 steps 
+ ISP at t = 0.2500 | No. of states: 6155 | Approximation: 1.000e+00 | Prob(dropped): 7.760e-06 | Pruning after   4 steps 
+ ISP at t = 0.2600 | No. of states: 6155 | Approximation: 1.000e+00 | Prob(dropped): 7.988e-06 | Pruning after   3 steps 
+ ISP at t = 0.2600 | No. of states: 6155 | Approximation: 1.000e+00 | Prob(dropped): 7.988e-06 | Pruning after   3 steps 
+ ISP at t = 0.2700 | No. of states: 6155 | Approximation: 1.000e+00 | Prob(dropped): 8.577e-06 | Pruning after   2 steps 
+ ISP at t = 0.2700 | No. of states: 6155 | Approximation: 1.000e+00 | Prob(dropped): 8.577e-06 | Pruning after   2 steps 
+ ISP at t = 0.2800 | No. of states: 7076 | Approximation: 1.000e+00 | Prob(dropped): 8.631e-06 | Pruning after   1 steps 
+ ISP at t = 0.2800 | No. of states: 7076 | Approximation: 1.000e+00 | Prob(dropped): 8.631e-06 | Pruning after   1 steps 
+ ISP at t = 0.2900 | No. of states: 7076 | Approximation: 1.000e+00 | Prob(dropped): 8.864e-06 | Pruning after  10 steps 
+ ISP at t = 0.2900 | No. of states: 7076 | Approximation: 1.000e+00 | Prob(dropped): 8.864e-06 | Pruning after  10 steps 
+ ISP at t = 0.3000 | No. of states: 7076 | Approximation: 1.000e+00 | Prob(dropped): 9.432e-06 | Pruning after   9 steps 
+ ISP at t = 0.3000 | No. of states: 7076 | Approximation: 1.000e+00 | Prob(dropped): 9.432e-06 | Pruning after   9 steps 
+ ISP at t = 0.3100 | No. of states: 8089 | Approximation: 1.000e+00 | Prob(dropped): 9.477e-06 | Pruning after   8 steps 
+ ISP at t = 0.3100 | No. of states: 8089 | Approximation: 1.000e+00 | Prob(dropped): 9.477e-06 | Pruning after   8 steps 
+ ISP at t = 0.3200 | No. of states: 8089 | Approximation: 1.000e+00 | Prob(dropped): 9.669e-06 | Pruning after   7 steps 
+ ISP at t = 0.3200 | No. of states: 8089 | Approximation: 1.000e+00 | Prob(dropped): 9.669e-06 | Pruning after   7 steps 
+ ISP at t = 0.3300 | No. of states: 8089 | Approximation: 1.000e+00 | Prob(dropped): 1.013e-05 | Pruning after   6 steps 
+ ISP at t = 0.3300 | No. of states: 8089 | Approximation: 1.000e+00 | Prob(dropped): 1.013e-05 | Pruning after   6 steps 
+ ISP at t = 0.3400 | No. of states: 8089 | Approximation: 1.000e+00 | Prob(dropped): 1.104e-05 | Pruning after   5 steps 
+ ISP at t = 0.3400 | No. of states: 8089 | Approximation: 1.000e+00 | Prob(dropped): 1.104e-05 | Pruning after   5 steps 
+ ISP at t = 0.3500 | No. of states: 9193 | Approximation: 1.000e+00 | Prob(dropped): 1.111e-05 | Pruning after   4 steps 
+ ISP at t = 0.3500 | No. of states: 9193 | Approximation: 1.000e+00 | Prob(dropped): 1.111e-05 | Pruning after   4 steps 
+ ISP at t = 0.3600 | No. of states: 9193 | Approximation: 1.000e+00 | Prob(dropped): 1.137e-05 | Pruning after   3 steps 
+ ISP at t = 0.3600 | No. of states: 9193 | Approximation: 1.000e+00 | Prob(dropped): 1.137e-05 | Pruning after   3 steps 
+ ISP at t = 0.3700 | No. of states: 9193 | Approximation: 1.000e+00 | Prob(dropped): 1.196e-05 | Pruning after   2 steps 
+ ISP at t = 0.3700 | No. of states: 9193 | Approximation: 1.000e+00 | Prob(dropped): 1.196e-05 | Pruning after   2 steps 
+ ISP at t = 0.3800 | No. of states: 10392 | Approximation: 1.000e+00 | Prob(dropped): 1.200e-05 | Pruning after   1 steps 
+ ISP at t = 0.3800 | No. of states: 10392 | Approximation: 1.000e+00 | Prob(dropped): 1.200e-05 | Pruning after   1 steps 
+ ISP at t = 0.3900 | No. of states: 10392 | Approximation: 1.000e+00 | Prob(dropped): 1.216e-05 | Pruning after  10 steps 
+ ISP at t = 0.3900 | No. of states: 10392 | Approximation: 1.000e+00 | Prob(dropped): 1.216e-05 | Pruning after  10 steps 
+ ISP at t = 0.4000 | No. of states: 10392 | Approximation: 1.000e+00 | Prob(dropped): 1.252e-05 | Pruning after   9 steps 
+ ISP at t = 0.4000 | No. of states: 10392 | Approximation: 1.000e+00 | Prob(dropped): 1.252e-05 | Pruning after   9 steps 
+ ISP at t = 0.4100 | No. of states: 10392 | Approximation: 1.000e+00 | Prob(dropped): 1.321e-05 | Pruning after   8 steps 
+ ISP at t = 0.4100 | No. of states: 10392 | Approximation: 1.000e+00 | Prob(dropped): 1.321e-05 | Pruning after   8 steps 
+ ISP at t = 0.4200 | No. of states: 11691 | Approximation: 1.000e+00 | Prob(dropped): 1.325e-05 | Pruning after   7 steps 
+ ISP at t = 0.4200 | No. of states: 11691 | Approximation: 1.000e+00 | Prob(dropped): 1.325e-05 | Pruning after   7 steps 
+ ISP at t = 0.4300 | No. of states: 11691 | Approximation: 1.000e+00 | Prob(dropped): 1.341e-05 | Pruning after   6 steps 
+ ISP at t = 0.4300 | No. of states: 11691 | Approximation: 1.000e+00 | Prob(dropped): 1.341e-05 | Pruning after   6 steps 
+ ISP at t = 0.4400 | No. of states: 11691 | Approximation: 1.000e+00 | Prob(dropped): 1.375e-05 | Pruning after   5 steps 
+ ISP at t = 0.4400 | No. of states: 11691 | Approximation: 1.000e+00 | Prob(dropped): 1.375e-05 | Pruning after   5 steps 
+ ISP at t = 0.4500 | No. of states: 11691 | Approximation: 1.000e+00 | Prob(dropped): 1.438e-05 | Pruning after   4 steps 
+ ISP at t = 0.4500 | No. of states: 11691 | Approximation: 1.000e+00 | Prob(dropped): 1.438e-05 | Pruning after   4 steps 
+ ISP at t = 0.4600 | No. of states: 13089 | Approximation: 1.000e+00 | Prob(dropped): 1.442e-05 | Pruning after   3 steps 
+ ISP at t = 0.4600 | No. of states: 13089 | Approximation: 1.000e+00 | Prob(dropped): 1.442e-05 | Pruning after   3 steps 
+ ISP at t = 0.4700 | No. of states: 13089 | Approximation: 1.000e+00 | Prob(dropped): 1.454e-05 | Pruning after   2 steps 
+ ISP at t = 0.4700 | No. of states: 13089 | Approximation: 1.000e+00 | Prob(dropped): 1.454e-05 | Pruning after   2 steps 
+ ISP at t = 0.4800 | No. of states: 13089 | Approximation: 1.000e+00 | Prob(dropped): 1.482e-05 | Pruning after   1 steps 
+ ISP at t = 0.4800 | No. of states: 13089 | Approximation: 1.000e+00 | Prob(dropped): 1.482e-05 | Pruning after   1 steps 
+ ISP at t = 0.4900 | No. of states: 13089 | Approximation: 1.000e+00 | Prob(dropped): 1.532e-05 | Pruning after  10 steps 
+ ISP at t = 0.4900 | No. of states: 13089 | Approximation: 1.000e+00 | Prob(dropped): 1.532e-05 | Pruning after  10 steps 
+
+Time elapsed: 2706.83066797 seconds
